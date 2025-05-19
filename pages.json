@@ -1,0 +1,20 @@
+{
+    "pages": [
+        {
+            "path": "/",
+            "html": "index.html"
+        },
+        {
+            "path": "/another-page",
+            "html": "another-page.html"
+        }
+    ],
+    "assets": [
+        {
+            "path":"coffee.jpg"
+        },
+        {
+            "path":"styles.css"
+        }
+    ]
+}
